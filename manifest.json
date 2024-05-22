@@ -20,11 +20,7 @@
   "author": "Alex Foster",
   "name": "Deslop",
   "description": "Make Google Great Again: De-enshittification of Google search.",
-  "permissions": [
-    "declarativeNetRequest",
-    "declarativeNetRequestWithHostAccess",
-    "declarativeNetRequestFeedback"
-  ],
+  "permissions": ["declarativeNetRequest"],
   "host_permissions": ["*://*.google.com/*"],
   "background": {
     "service_worker": "background.js"
