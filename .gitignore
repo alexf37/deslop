@@ -6,7 +6,7 @@
 /.pnp
 .pnp.js
 
-metadata
+_metadata
 
 # testing
 /coverage
