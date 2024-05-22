@@ -18,8 +18,8 @@
   },
   "version": "0.0.1",
   "author": "Alex Foster",
-  "name": "DEV | Deslop",
-  "description": "De-enshittification of Google search.",
+  "name": "Deslop",
+  "description": "Make Google Great Again: De-enshittification of Google search.",
   "permissions": [
     "declarativeNetRequest",
     "declarativeNetRequestWithHostAccess",
